@@ -6,4 +6,4 @@
 
 -Utilizo o GitHUb para a organização e compaartilhamento dos meus projetos desenvolvidos
 
-!(https://tenor.com/pt-BR/view/hajime-no-ippo-ippo-box-punch-gif-18254668).
+![](https://media1.tenor.com/m/dIN_NeC6lBwAAAAC/hajime-no-ippo-ippo.gif)
